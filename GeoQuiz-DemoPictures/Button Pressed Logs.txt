@@ -1,0 +1,7 @@
+2019-09-06 15:10:55.162 20001-20025/com.example.geoquiz2 D/EGL_emulation: eglMakeCurrent: 0x9e7a67e0: ver 3 0 (tinfo 0xa988b2a0)
+2019-09-06 15:13:14.947 20001-20001/com.example.geoquiz2 D/Button Clicked: onClick() button Pressed True
+2019-09-06 15:13:15.060 20001-20025/com.example.geoquiz2 D/EGL_emulation: eglMakeCurrent: 0x9e7a67e0: ver 3 0 (tinfo 0xa988b2a0)
+2019-09-06 15:13:15.090 20001-20025/com.example.geoquiz2 D/EGL_emulation: eglMakeCurrent: 0x9e7a67e0: ver 3 0 (tinfo 0xa988b2a0)
+2019-09-06 15:13:57.840 20001-20001/com.example.geoquiz2 D/Button Clicked: onClick() button Pressed False
+2019-09-06 15:13:57.882 20001-20025/com.example.geoquiz2 D/EGL_emulation: eglMakeCurrent: 0x9e7a67e0: ver 3 0 (tinfo 0xa988b2a0)
+2019-09-06 15:13:57.901 20001-20025/com.example.geoquiz2 D/EGL_emulation: eglMakeCurrent: 0x9e7a67e0: ver 3 0 (tinfo 0xa988b2a0)
